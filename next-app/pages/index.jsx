@@ -4,7 +4,7 @@ import React from "react";
 
 export default function HomePage() {
   return (
-    <div className="container text-center mt-3">
+    <div>
       <h1>This Is Homepage</h1>
       <hr />
     </div>

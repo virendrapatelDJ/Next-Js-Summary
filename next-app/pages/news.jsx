@@ -3,7 +3,7 @@ import React from "react";
 
 export default function NewsPage() {
   return (
-    <div className="container text-center mt-3">
+    <div>
       <h1>This Is News Page</h1>
       <hr />
     </div>
